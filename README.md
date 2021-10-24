@@ -97,5 +97,5 @@ root
 <a href="https://github.com/eshan1925/Eventour/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=eshan1925/Eventour" />
 </a>
----
-### This project was part of **Hack This Fall Hackathon**.
+
+### This project was part of Hack This Fall Hackathon.
